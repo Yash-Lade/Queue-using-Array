@@ -9,7 +9,7 @@ void display();
 int main()
 {
 	int ch;
-	cout<<"\n\tStudent name- Yash Lade";
+	cout<<"\n\t@Author Name - Yash Lade";
 	
 	
 	do
